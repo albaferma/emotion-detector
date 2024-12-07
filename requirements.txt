@@ -1,0 +1,6 @@
+
+flask
+fer
+opencv-python-headless
+werkzeug
+numpy
